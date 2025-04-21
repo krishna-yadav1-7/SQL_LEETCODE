@@ -1,4 +1,6 @@
 ## Problem No 1445
+We are asked to write a SQL query to report the difference in the number of apples and oranges sold for each day.
+
 CREATE TABLE Sales (
     sale_date DATE,
     fruit VARCHAR(20),
